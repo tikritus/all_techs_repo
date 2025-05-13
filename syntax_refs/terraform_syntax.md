@@ -1,3 +1,6 @@
+
+
+[terraform_docs](https://registry.terraform.io/namespaces/hashicorp)
 | Command                      | Example Usage                                  | What it does                                                                                                                               |
 |------------------------------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | `terraform init`             | `terraform init`                               | Initializes the Terraform working directory. This includes downloading provider plugins and setting up the backend.                         |
