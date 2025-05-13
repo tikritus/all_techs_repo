@@ -62,4 +62,4 @@
 | `Start-Job`                  | `Start-Job -ScriptBlock { Sleep -Seconds 60; Get-Process }` | Runs a command or script block in the background as a PowerShell job.                                                                  |
 | `Get-Job`                    | `Get-Job`                                         | Displays a list of PowerShell jobs.                                                                                                          |
 | `Receive-Job`                | `Receive-Job -Id <JobID>`                        | Retrieves the output of a PowerShell job.                                                                                                      |
-| `Stop-Job`                   | `Stop-Job -Id <JobID>`                           | Stops a running PowerShell job.                                                                                                                |
+| `Stop-Job`                   | `Stop-Job -Id <JobID>`                           | Stops a running PowerShell job.                                                                                                                | 
