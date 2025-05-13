@@ -62,4 +62,4 @@ This document provides a list of important files, log locations, and forensic ar
 * Always ensure you have the legal authority and follow proper procedures when conducting investigations.
 * This list is not exhaustive but covers many critical artifacts for Linux forensics.
 
-This knowledge base should be a good starting point for your Linux investigations.
+

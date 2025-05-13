@@ -60,4 +60,3 @@ This document provides a list of important files, log locations, forensic artifa
 * The exact paths and availability of artifacts can vary slightly between Windows versions.
 * Always ensure you have the legal authority and follow proper procedures when conducting investigations.
 
-This list is not exhaustive but covers many of the critical artifacts commonly examined during Windows forensic investigations.
